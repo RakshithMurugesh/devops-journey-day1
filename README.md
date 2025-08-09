@@ -1,19 +1,19 @@
 # 🚀 Day 1 - DevOps Journey
 
-1🧠 What I Learned Today
+## 🧠 What I Learned Today
 - What DevOps is and why it's important.
 - Basics of Git and version control.
 - How to use GitHub to host code.
 - How to install and use GitHub Copilot in VS Code.
 - How to push code to a GitHub repository using Git commands.
 
-2 📂 Tools Used
+## 📂 Tools Used
 - Git
 - GitHub
 - Visual Studio Code
 - GitHub Copilot
 
-3🔧 Commands I Used
+## 🔧 Commands I Used
 ```bash
 git init                            # Initialize a new Git repository
 git add .                           # Stage all files for commit
@@ -22,8 +22,10 @@ git config --global user.name "Rakshith Murugesh"  # Set Git username
 git config --global user.email "rakshith.09m@gmail.com"  # Set Git email
 git remote add origin https://github.com/RakshithMurugesh/devops-journey-day1.git  # Link to GitHub repo
 git push -u origin master           # Push code to GitHub
+```
 
-4 📘 Learning
+## 📘 Learning
+```bash
 Git Commands Explained (Day 1)
 🔹 git init
 What it does:
