@@ -25,7 +25,6 @@ git push -u origin master           # Push code to GitHub
 ```
 
 ## 📘 Learning
-```bash
 Git Commands Explained (Day 1)
 🔹 git init
 What it does:
